@@ -1,5 +1,5 @@
 # react-reddit
-A React app to list posts of subreddits
+A Simple React App using Redux to list subreddits posts
 
 ## Usage
 
